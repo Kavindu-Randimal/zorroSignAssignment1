@@ -2,9 +2,6 @@
 //  ShowFactsUITests.swift
 //  ShowFactsUITests
 //
-//  Created by sachithra wishwamal on 6/29/20.
-//  Copyright © 2020 sachithra wishwamal. All rights reserved.
-//
 
 import XCTest
 
